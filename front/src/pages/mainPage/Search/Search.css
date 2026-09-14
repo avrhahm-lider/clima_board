@@ -1,0 +1,11 @@
+.search-page {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.search-results {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

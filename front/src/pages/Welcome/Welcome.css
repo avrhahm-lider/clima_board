@@ -1,0 +1,24 @@
+.page-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
+  padding: 16px;
+}
+
+.login-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  width: 100%;
+  max-width: 360px;
+  text-align: center;
+}
+
+.login-card h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}

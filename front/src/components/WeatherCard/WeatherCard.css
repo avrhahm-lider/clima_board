@@ -1,0 +1,8 @@
+.weather-card {
+  text-align: center;
+}
+
+.weather-card-temp {
+  font-size: 3rem;
+  margin: 8px 0;
+}

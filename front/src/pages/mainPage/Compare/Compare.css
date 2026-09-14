@@ -1,0 +1,11 @@
+.compair-selectors {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.compare-page {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

@@ -1,0 +1,10 @@
+.compare-view {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.compare-view > * {
+  flex: 1;
+  min-width: 220px;
+}
